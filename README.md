@@ -6,6 +6,9 @@ I'm Alex, a full-stack software engineer. I love building creative projects, sol
 <a href="https://www.transmit.onrender.com" target="_blank">Transmit</a> - Full-stack Slack clone <br />
 <a href="https://www.median.onrender.com" target="_blank">Median</a> - Full-stack Medium clone <br />
 
+## My Github stats!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderfeinberg)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills and Technologies
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-100?style=for-the-badge&logo=visual-studio-code&logoColor=7b95ad&color=141422)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100?style=for-the-badge&logo=javascript&logoColor=7b95ad&color=141422)
