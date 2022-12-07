@@ -3,8 +3,8 @@ I'm Alex, a full-stack software engineer. I love building creative projects, sol
 
 ## My projects
 <a href="https://feinbnb.herokuapp.com/" target="_blank">Feinbnb</a> - Full-stack Airbnb clone <br />
-<a href="https://www.transmit.onrender.com" target="_blank">Transmit</a> - Full-stack Slack clone <br />
-<a href="https://www.median.onrender.com" target="_blank">Median</a> - Full-stack Medium clone <br />
+<a href="https://transmit.onrender.com" target="_blank">Transmit</a> - Full-stack Slack clone <br />
+<a href="https://median.onrender.com" target="_blank">Median</a> - Full-stack Medium clone <br />
 
 ## My Github stats!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderfeinberg)](https://github.com/anuraghazra/github-readme-stats)
