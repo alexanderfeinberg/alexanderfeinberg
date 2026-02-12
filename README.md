@@ -1,11 +1,6 @@
 ## Welcome to my profile
 I'm Alex, a full-stack software engineer. I love building creative projects, solving bugs, and surfing!
 
-## My projects
-<a href="https://feinbnb.herokuapp.com/" target="_blank">Feinbnb</a> - Full-stack Airbnb clone <br />
-<a href="https://transmit.onrender.com" target="_blank">Transmit</a> - Full-stack Slack clone <br />
-<a href="https://median.onrender.com" target="_blank">Median</a> - Full-stack Medium clone <br />
-
 ## My Github stats!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderfeinberg)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,4 +27,5 @@ I'm Alex, a full-stack software engineer. I love building creative projects, sol
 ![Git](https://img.shields.io/badge/Git-100?style=for-the-badge&logo=git&logoColor=7b95ad&color=141422)
 ![Github](https://img.shields.io/badge/GitHub-100?style=for-the-badge&logo=github&logoColor=7b95ad&color=141422)
 ![Socket.io](https://img.shields.io/badge/Socket.io-100?style=for-the-badge&logo=socket.io&logoColor=7b95ad&color=141422)
+
 
